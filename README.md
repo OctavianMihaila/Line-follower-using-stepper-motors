@@ -1,5 +1,3 @@
-# Line Follower Robot Project
-
 ## Description
 
 This repository contains the code and documentation for a Line Follower Robot project. The robot utilizes stepper motors with microstepping control for precise movements and is powered by a 12V battery. Two infrared (IR) sensors are used to detect the tape on the track, enabling the robot to follow a designated path. Additionally, an inclination sensor is employed to detect ramps.
